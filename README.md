@@ -2,6 +2,8 @@
 
 `Full Stack Developer`
 
+Check out my Portfolio [here](https://leifurcastle.com)
+
 🎓 Recent graduate from General Assembly's six month **450+ hour** software engineering immersive
 <br />
 👨‍💻 Avid learner, I look forward to every learning opportunity because no matter how much I feel I've learned, there's always more!
