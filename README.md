@@ -10,8 +10,6 @@ Check out my Portfolio [here](https://leifurcastle.com)
 <br />
 😈 Passionate about full stack development, nothing compares to overcoming the unique challenges that come with the creation of something new
 <br />
-🌱 Currently focusing on improving my skills with Python and Django and am excited to start a new project that utilizes these technologies
-<br />
 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/leifurcastle) | leifurcastle@gmail.com | <span style="color:#2F81F7" >(208)-310-2163</span> to collborate, connect, or if you believe I'm good fit for your team
 
 ## Tech Stack
